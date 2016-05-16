@@ -1,2 +1,1 @@
-# ddd_commerce_example
-A php ddd commerce example
+A php ddd commerce example used in a laravel project with doctrine ORM
